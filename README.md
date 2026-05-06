@@ -9,7 +9,8 @@ Repository Contents
 -Youtube Video Link   
 -2 CISCO Certificate   
 -IBM Certificate    
--EDS Laboratory Assignments    
+-EDS Laboratory Assignments  
+-20 Problem Statements Assignment
 
 
 
